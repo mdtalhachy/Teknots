@@ -1,4 +1,4 @@
-# Teknotsguide
+# Teknots 
 Personal guidelines for note-taking across Notion platform.
 
 ![](https://github.com/mdtalhachy/PostgreSQL/blob/master/imageholder/notion-windows.png)
