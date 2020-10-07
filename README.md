@@ -7,6 +7,7 @@ Notion is an application that provides components such as databases, kanban boar
 
 # Notion
  
+### Colors
 ###### Color Yellow -- The line's importance is 4/5
 ###### Color Yellow + Bold Text -- The line's importance is 5/5
 ###### Color Orange -- The line is thought provoking
@@ -18,3 +19,5 @@ Notion is an application that provides components such as databases, kanban boar
 ###### Underlined Text -- Requires review, second thoughts, re-thinking, additional research. 
 
 
+### Symbols
+###### & -- Facts
